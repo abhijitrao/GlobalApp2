@@ -15,8 +15,15 @@ public class MainActivity extends AppCompatActivity {
         //exect value is branch 12 upfate on 07
     }
     public void newMethod(){
-        for(int i=0;i<10;i++){
+        int j=2;
+        for(int i=0;i<10;i--){
             // logic code here
         }
+
+        // write new logic here udtated
+    }
+
+    public void thereIsNewMethod(){
+        //hello new branch
     }
 }
