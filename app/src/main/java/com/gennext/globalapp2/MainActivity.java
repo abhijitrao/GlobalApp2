@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
 
         int iywe=8972;
         
-        //exect value is branch 12
+        //exect value is branch 12 upfate on 07
     }
 }
