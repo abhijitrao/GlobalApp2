@@ -26,4 +26,8 @@ public class MainActivity extends AppCompatActivity {
     public void thereIsNewMethod(){
         //hello new branch
     }
+    
+    public void updatedNewMethod(){
+        //hello new branch
+    }
 }
